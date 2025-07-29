@@ -1,0 +1,3 @@
+C:/Users/IgnasKadisa/Desktop/C++/multimedia endless/endless/out/build/x64-debug/CMakeFiles/endless.dir
+C:/Users/IgnasKadisa/Desktop/C++/multimedia endless/endless/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/IgnasKadisa/Desktop/C++/multimedia endless/endless/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
