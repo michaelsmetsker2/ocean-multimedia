@@ -3,3 +3,6 @@ bin/
 obj/
 *.user
 *.suo
+
+# build directory
+out/build/
